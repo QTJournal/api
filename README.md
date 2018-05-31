@@ -1,6 +1,6 @@
 # ![tj's logo](http://tjournal.ru/static/main/img/logos/logo-github-markdown.png) TJournal API documentation
 
-Открытая неофициальная документация API TJournal
+Открытая неофициальная документация API TJournal (на сегодня неактуальна, пользуйтесь http://shir-man.com/static/tjapi/)
 > **Внимание!** API находится в режиме постоянной разработки, ответы от сервера могут меняться. (Но мы постараемся обо всех изменениях предупреждать :-)
 
 
